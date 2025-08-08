@@ -1,2 +1,2 @@
-# trtippy-travel-website
+# trippy-travel-website
 Created with CodeSandbox
